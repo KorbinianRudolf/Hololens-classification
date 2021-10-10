@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenCV.cpp.obj": [
+			"HTTPSubsystem.cpp.obj",
+			"ImageHelper.cpp.obj",
+			"OpenCV.cpp.obj",
+			"OpenCVAccess.cpp.obj",
+			"OpenCVAcess.cpp.obj",
+			"Sender.cpp.obj",
+			"TestComponent.cpp.obj"
+		],
+		"Module.OpenCV.gen.cpp.obj": [
+			"HTTPSubsystem.gen.cpp.obj",
+			"OpenCV.init.gen.cpp.obj",
+			"OpenCVAccess.gen.cpp.obj",
+			"OpenCVAcess.gen.cpp.obj",
+			"Sender.gen.cpp.obj",
+			"TestComponent.gen.cpp.obj"
+		]
+	}
+}

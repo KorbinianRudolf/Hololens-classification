@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenCV-1363.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Users\korbi\Documents\Unreal Projects\WoundClass\Intermediate\Build\Win64\WoundClassEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Users\korbi\Documents\Unreal Projects\WoundClass\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\Module.OpenCV.cpp.obj"
+"E:\Users\korbi\Documents\Unreal Projects\WoundClass\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\Module.OpenCV.gen.cpp.obj"
+"E:\Users\korbi\Documents\Unreal Projects\WoundClass\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\Default.rc2.res"
+/OUT:"E:\Users\korbi\Documents\Unreal Projects\WoundClass\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\UE4Editor-OpenCV-1363.lib"
+/INCLUDE:IMPLEMENT_MODULE_OpenCV
