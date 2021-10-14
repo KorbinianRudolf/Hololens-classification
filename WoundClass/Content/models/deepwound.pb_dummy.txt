@@ -1,0 +1,1 @@
+Dummy-Datei, bis git-lfs das Netz hochlädt. Kann durch beliebiges Netz in .pb format ersetzt werden. Der Pfad in der Methode Load-Model in OpenCVAcess.cpp muss entsprechend angepasst werden.
